@@ -1,0 +1,7 @@
+## Amazon Elastic Container Service (Amazon ECS)
+
+Amazon Elastic Container Service (Amazon ECS) is a highly scalable, high-performance container management system that enables you to run and scale containerized applications on AWS.  
+
+Amazon ECS supports Docker containers. Docker is a software platform that enables you to build, test, and deploy applications quickly. AWS supports the use of open-source Docker Community Edition and subscription-based Docker Enterprise Edition. With Amazon ECS, you can use API calls to launch and stop Docker-enabled applications.  
+
+[Learn More Here](https://aws.amazon.com/ecs/)

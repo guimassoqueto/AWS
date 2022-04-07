@@ -1,0 +1,28 @@
+1. Instances (virtual machines)
+    1. [AWS Elastic Compute Cloud (EC2)](https://aws.amazon.com/ec2/)
+    2. [Amazon EC2 Spot Instances](https://aws.amazon.com/ec2/spot/)
+    3. [Amazon EC2 Autoscaling](https://aws.amazon.com/ec2/autoscaling/)
+    4. [Amazon Lightsail](https://aws.amazon.com/lightsail/)
+    5. [AWS Batch](https://aws.amazon.com/batch/)
+2. Containers
+    1. [Amazon Elastic Container Service (ECS)](https://aws.amazon.com/ecs/)
+    2. [Amazon ECS Anywhere](https://aws.amazon.com/ecs/anywhere/)
+    3. [Amazon Elastic Container Registry (ECR)](https://aws.amazon.com/ecr/)
+    4. [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
+    5. [Amazon EKS Anywhere](https://aws.amazon.com/eks/)
+    6. [AWS Fargate](https://aws.amazon.com/fargate/)
+    7. [AWS App Runner](https://aws.amazon.com/apprunner/)
+3. Serverless
+    1. [AWS Lambda](https://aws.amazon.com/lambda/)
+4. Edge and hybrid
+    1. [AWS Outposts](https://aws.amazon.com/outposts/)
+    2. [AWS Snow Family](https://aws.amazon.com/snow/)
+    3. [AWS Wavelength](https://aws.amazon.com/wavelength/)
+    4. [VMware Cloud on AWS](https://aws.amazon.com/vmware/)
+    5. [AWS Local Zones](https://aws.amazon.com/about-aws/global-infrastructure/localzones/)
+5. Cost and capacity management
+    1. [AWS Savings Plan](https://aws.amazon.com/savingsplans/)
+    2. [AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/)
+    3. [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+    4. [EC2 Image Builder](https://aws.amazon.com/image-builder/)
+    5. [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/)
