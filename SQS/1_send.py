@@ -4,7 +4,7 @@ import boto3
 sqs = boto3.client('sqs')
 
 #Create a SQS in AWS and paste the link here
-queue_url = 'https://sqs.us-east-1.amazonaws.com/938412134264/test_queue'
+queue_url = 'URL'
 
 # Send message to SQS queue
 response = sqs.send_message(
