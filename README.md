@@ -9,5 +9,5 @@ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 3. Run in terminal the following command (after successfully install teh AWS CLI):  
 `aws configure`
 
-4. Insert the data required and you are ready to develop.
+4. Insert the data required and you are ready to go.
 
